@@ -8,11 +8,11 @@
         <version>3.0.6</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.in28minutes</groupId>
-    <artifactId>learn-spring-framework</artifactId>
+    <groupId>com.example</groupId>
+    <artifactId>learn-spring-framework-02</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>learn-spring-framework</name>
-    <description>learn-spring-framework</description>
+    <name>learn-spring-framework-01</name>
+    <description>learn-spring-framework-01</description>
     <properties>
         <java.version>17</java.version>
     </properties>
